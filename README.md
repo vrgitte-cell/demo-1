@@ -1,4 +1,4 @@
 # demo-1
 this is my first git-repository.
 <br>
-Author-Vaibhav Gitte
+Author-Vaibhav Gitte (tatya)
